@@ -1,0 +1,5 @@
+Hello welcome to my first repository!
+
+Thankyou for visiting!
+
+I added some text on this branch but this wont affect the main branch unless i will merge this to the main branch
