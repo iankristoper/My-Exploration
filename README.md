@@ -1,2 +1,2 @@
-# My-cpp-codes
-This is my c++ code
+# My-Exploration
+This is my exploration of github
