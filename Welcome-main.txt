@@ -7,6 +7,10 @@ Thankyou for visiting!
 2. BANANA
 3. WATERMELON
 4. ORANGE
+//NEW FEATURES
+5. PAPAYA
+6. GUAVA
+7. PINEAPPLE
 
 
 
