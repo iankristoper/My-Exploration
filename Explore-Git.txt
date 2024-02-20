@@ -2,3 +2,5 @@ Hey this is my first time in git, you know im so happy :)
 This is my added text
 This is my another text
 This is my fourth text 
+This is my fifth text
+This is my sixth text
