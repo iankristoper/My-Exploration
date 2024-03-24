@@ -1,2 +1,2 @@
 # My-Exploration
-This is my exploration of github
+This is my exploration of github 
